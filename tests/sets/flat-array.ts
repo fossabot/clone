@@ -1,0 +1,18 @@
+export const flatArray = [
+  1,
+  1,
+  2,
+  3,
+  5,
+  8,
+  13,
+  'I',
+  'V',
+  'X',
+  true,
+  false,
+  NaN,
+  null,
+  Symbol(),
+  undefined,
+]
