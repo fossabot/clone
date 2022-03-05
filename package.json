@@ -1,7 +1,10 @@
 {
   "name": "@golden-ants/clone",
   "version": "0.0.1",
-  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "Fast, deep, scalable object cloning for JavaScript",
+  "keywords": ["clone", "deep", "deep clone", "scalable cloning"],
   "files": [
     "dist"
   ],
